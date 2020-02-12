@@ -2,6 +2,6 @@
 visitors app with firebase and mlkit
 Apk link https://github.com/varunnagda/TestApp/blob/master/app/release/app-release.apk
 
-camerax
-ml kit
-firebase
+# camerax
+# ml kit
+# firebase
