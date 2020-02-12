@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848694102",
+    "firebase_url": "https://iplapp2020.firebaseio.com",
+    "project_id": "iplapp2020",
+    "storage_bucket": "iplapp2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848694102:android:0336103d65d523c543a4f7",
+        "android_client_info": {
+          "package_name": "com.varun.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848694102-e63fknd0tnilqphsqqqevvj8drjfb9mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.testapp",
+            "certificate_hash": "1dc4074e0f62c321e4aa656d23421046946d2148"
+          }
+        },
+        {
+          "client_id": "848694102-985i51527qjiag5e659fqj65at0qk1kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBadPKEkW3EX7ncrwb4Hzmk0zfjuuafIWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848694102-985i51527qjiag5e659fqj65at0qk1kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
